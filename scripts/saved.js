@@ -29,6 +29,7 @@ function insertNameFromFirestore(user) {
 
 }
 
+
 //----------------------------------------------------------
 // This function takes input param User's Firestore document pointer
 // and retrieves the "saved" array (of bookmarks) 
