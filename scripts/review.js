@@ -9,7 +9,6 @@ function getHikeName(id) {
             document.getElementById("hikeName").innerHTML = hikeName;
         });
 }
-
 getHikeName(hikeDocID);
 
 // Add this JavaScript code to make stars clickable
